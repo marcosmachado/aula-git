@@ -15,3 +15,5 @@ para colocar o projeto na nuvem
 
 git remote add origin https://github.com/marcosmachado/aula-git.git
 git remote -v para ver os repositórios
+git config credential.helper store - para armazenar usuário/senha
+
